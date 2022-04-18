@@ -1,2 +1,2 @@
 # AnafiQuest
-The official Repo for controlling the Anafi from the Oculus quest 2 headset
+ Oculus Quest2 Anafi and MavLink  drone controller app
