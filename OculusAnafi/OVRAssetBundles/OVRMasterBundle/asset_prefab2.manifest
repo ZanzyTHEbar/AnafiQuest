@@ -1,0 +1,267 @@
+ManifestFileVersion: 0
+CRC: 4249210649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c7f67c4ab04c1dbea8ab72a5d1beba9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d63d5cc76214c951993973215dce039
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85ef10d17088b3c4cad9a5d13887b157, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3236b8f205019504589358e7e0412a38, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a0ad4ecf30771d44bf163058922924b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ced30fb0d3378c442934280394576509, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 622db80eec0bd344f920b1aa056ae8d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2b5b0c4a3ad10941918d5e111f95b70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8951a656a7c00e74094166ef415cdce5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 488896fe86105104a8453d9f173cf62a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1464721f2283eb14e94a33e812b47be4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bedaac29a943f844a7074b53c8bdf9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb86ba9d4c5126e48bfef9b0c9550e9d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af559e57b81a946479f0ad978a1a3763, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5626a0b1dc955a43be59ce7ea116678, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d2303af7d4c7114681742031c4a0ac6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 194b7d1054b8fa64b9bdcea46d06c3a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9a7676b01585ce43908639a27765dfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b78f8e52fe10fd9499c5e5c8b3f953fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e38df5678b37d6429ef2446d3589e00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f5531e0e19dff046a5b9f58ee68fe2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ffe41fe81087fa41a2062cc69b99615, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: acb743c666c1ab34e928a0b62c2fa862, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 328b20022c3885e43a8861c57af4caf5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3673df66324d8f34d9433049c54de631, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 925ef87c5bafc37469a2f7ec825dee4b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bff16bb2b8cae9409e88ec4d3527c9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1bc992571301d4a9602ac95ef4c71a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9597e632dfbca247bcf65e49c67078e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c94ad25aabf9b34eb79cd433132dee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 124f4583f657475469a45ab6fca8f921, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b053556d972eae24b947c1477538bff1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5e48d93b64a9ae4f9fd5a728c8f51af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7ecff74e52843a41ab3a441ac81379e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3266c3d920715b84089935c4ab019210, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Oculus.Interaction.Samples
+  ClassName: Oculus.Interaction.ImpactAudio
+- AssemblyName: Oculus.Interaction.Samples
+  ClassName: Oculus.Interaction.MinMaxPair
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.FloatConstraint
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.GrabAPI.GrabbingRule
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.HandPosing.HandPose
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.HandPosing.PoseMeasureParameters
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.InteractableColorVisual/ColorState
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.OneGrabRotateTransformer/OneGrabRotateConstraints
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.OneGrabTranslateTransformer/OneGrabTranslateConstraints
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.TwoGrabFreeTransformer/TwoGrabFreeConstraints
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.UnityCanvas.CanvasCylinder/MeshGenerationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabBoxOpenAudio.prefab
+- Assets/Oculus/Interaction/Runtime/Prefabs/Grab/ControllerGrabInteractor.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ObjectPhysicsImpactSoft.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/MapWithPins.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabBoxOpenClose.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Environment/ComplexGrabInfoFrames.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabDollGrabAudio.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Pin.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabStoneResize.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/StonePolyhedron.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabStoneReleaseAudio.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/DebugScreen.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ObjectResizeUpAudio.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabPinGrabAudio.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/StoneDodecahedron.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/StoneTetrahedron.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ObjectResizeDownAudio.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/StoneOctahedron.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabBoxGrabAudio.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabBoxCloseAudio.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Box.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ObjectPhysicsImpactHard.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/Doll/Doll.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabStoneGrabAudio.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabDollReleaseAudio.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabPinReleaseAudio.prefab
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/StoneCube.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ComplexGrabBoxReleaseAudio.prefab
+- Assets/Oculus/Interaction/Samples/Audio/Prefabs/ObjectReappearAudio.prefab
+- Assets/Oculus/Interaction/Samples/Prefabs/OculusInteractionSamplesRayCanvas.prefab
+Dependencies:
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_png0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_png1
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_resources
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_wav0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_wav1
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_wav2

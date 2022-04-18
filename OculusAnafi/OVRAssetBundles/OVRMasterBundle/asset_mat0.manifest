@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 935622151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 806bb502124635f437229eef6b00b7e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Particles/Materials/Flame.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/StencilSkydome.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandWire.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomRugMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFurnitureMat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandDebug.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIDepthOverwrite.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/IconBox/Materials/iconBoxMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Particles/Materials/FlamePool.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Materials/torchMaterial.mat
+- Assets/Oculus/Interaction/Samples/ThirdParty/GradientSkybox/Skybox_ThreeColorGradient.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Materials/keyMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/WindowStencilWriter.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Materials/ButtonRingShadowMat.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Materials/MRDeskShadow.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Materials/PodiumMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Mug/Materials/mugMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomWoodMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFloorMat.mat
+- Assets/Oculus/Interaction/Samples/Materials/HandStopParticle.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIUnderlayImposter.mat
+- Assets/Oculus/Interaction/Runtime/Materials/RoundedBoxUnlit.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFabricMat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIDefaultOverlay.mat
+- Assets/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
+Dependencies:
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_png0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_resources
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_tga0

@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 72c9818cb12906a41bb5b7e6b7a7ced2
+timeCreated: 1524490885
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BumbleBee [Mesh]
+    100002: BumbleBee [MeshCamera]
+    100004: BumbleBee [MeshCollider]
+    100006: BumbleBee [Propeller] (1)
+    100008: BumbleBee [Propeller] (2)
+    100010: BumbleBee [Propeller] (3)
+    100012: BumbleBee [Propeller] (4)
+    100014: BumbleBee [Propeller] (5)
+    100016: BumbleBee [Propeller] (6)
+    100018: //RootNode
+    400000: BumbleBee [Mesh]
+    400002: BumbleBee [MeshCamera]
+    400004: BumbleBee [MeshCollider]
+    400006: BumbleBee [Propeller] (1)
+    400008: BumbleBee [Propeller] (2)
+    400010: BumbleBee [Propeller] (3)
+    400012: BumbleBee [Propeller] (4)
+    400014: BumbleBee [Propeller] (5)
+    400016: BumbleBee [Propeller] (6)
+    400018: //RootNode
+    2300000: BumbleBee [Mesh]
+    2300002: BumbleBee [MeshCamera]
+    2300004: BumbleBee [MeshCollider]
+    2300006: BumbleBee [Propeller] (1)
+    2300008: BumbleBee [Propeller] (2)
+    2300010: BumbleBee [Propeller] (3)
+    2300012: BumbleBee [Propeller] (4)
+    2300014: BumbleBee [Propeller] (5)
+    2300016: BumbleBee [Propeller] (6)
+    3300000: BumbleBee [Mesh]
+    3300002: BumbleBee [MeshCamera]
+    3300004: BumbleBee [MeshCollider]
+    3300006: BumbleBee [Propeller] (1)
+    3300008: BumbleBee [Propeller] (2)
+    3300010: BumbleBee [Propeller] (3)
+    3300012: BumbleBee [Propeller] (4)
+    3300014: BumbleBee [Propeller] (5)
+    3300016: BumbleBee [Propeller] (6)
+    4300000: BumbleBee [Mesh]
+    4300002: BumbleBee [Propeller] (1)
+    4300004: BumbleBee [Propeller] (2)
+    4300006: BumbleBee [Propeller] (3)
+    4300008: BumbleBee [Propeller] (4)
+    4300010: BumbleBee [Propeller] (5)
+    4300012: BumbleBee [Propeller] (6)
+    4300014: BumbleBee [MeshCollider]
+    4300016: BumbleBee [MeshCamera]
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

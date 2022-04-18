@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 594760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b247d46655bb1c33a103dd2364328c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_ComplexGrab_BoxClose_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_ThumbsDown_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_ComplexGrab_BoxOpen_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_08.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_04.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicRay_Release.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_ThumbsUp_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Rock_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_BasicRay_Hover.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_ComplexGrab_BoxClose_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Resize_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_ThumbsDown_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_ThumbsUp_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_ComplexGrab_BoxClose_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Scissors_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_07.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Stop_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Rock_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_ThumbsUp_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Paper_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Stop_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Scissors_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Scissors_03.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Stop_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Paper_01.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_Object_Impact_10.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_ThumbsDown_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Rock_02.wav
+- Assets/Oculus/Interaction/Samples/Audio/Content/Interaction_PoseDetection_Paper_02.wav
+Dependencies: []

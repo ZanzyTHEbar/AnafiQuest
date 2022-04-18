@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 821044416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75cf0fcf54fdd7669121b4a687afd2b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf61c6bd9b9bab5a95716f85eea186d7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3236b8f205019504589358e7e0412a38, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ced30fb0d3378c442934280394576509, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 622db80eec0bd344f920b1aa056ae8d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8951a656a7c00e74094166ef415cdce5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bedaac29a943f844a7074b53c8bdf9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9a7676b01585ce43908639a27765dfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43f86b14a27b52f4f9298c33015b5c26, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f5531e0e19dff046a5b9f58ee68fe2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eeb09e4f18fd0954796cd0b766d28fa4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 925ef87c5bafc37469a2f7ec825dee4b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bff16bb2b8cae9409e88ec4d3527c9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a1bc992571301d4a9602ac95ef4c71a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c94ad25aabf9b34eb79cd433132dee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b053556d972eae24b947c1477538bff1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5e48d93b64a9ae4f9fd5a728c8f51af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3266c3d920715b84089935c4ab019210, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Oculus.Interaction.Samples
+  ClassName: Oculus.Interaction.ImpactAudio
+- AssemblyName: Oculus.Interaction.Samples
+  ClassName: Oculus.Interaction.MinMaxPair
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.FloatConstraint
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.GrabAPI.GrabbingRule
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.HandPosing.HandPose
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.HandPosing.PoseMeasureParameters
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.InteractableColorVisual/ColorState
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.TwoGrabFreeTransformer/TwoGrabFreeConstraints
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/StoneIcosahedron.prefab
+Dependencies:
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_prefab2

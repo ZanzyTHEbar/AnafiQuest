@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BasicGrab.unity
+    guid: fe82069e326a8b9439530491f8c43c29
+  - enabled: 1
+    path: Assets/Scenes/BasicPoseDetection.unity
+    guid: 6fe0d8f8379108b4c8e1f796b55fc2a6
+  - enabled: 1
+    path: Assets/Scenes/BasicPoke.unity
+    guid: cf356b8e8595fd04ea71ec9383ff66d9
+  - enabled: 1
+    path: Assets/Scenes/ComplexGrab.unity
+    guid: 66ed40b182edd574296ed3d6927266a6
+  - enabled: 1
+    path: Assets/Scenes/BasicRay.unity
+    guid: 441cf8dbff9a0c64ea6dfe453bb3ee71
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8792b7f0b7606354d8dbd26f4cec9dfc, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: e378d34483fd5164b9234e4f7fa32512, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 286fa482ac14db1489297e7c874db6ea, type: 2}

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2091241599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7169bb11c5d07593b525f6c9aceef8e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDesk.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_AO.png
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoke/Lightmap-0_comp_dir.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_Normal.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/ShadowGradient.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/skydomeBaked.png
+- Assets/Oculus/Interaction/Samples/Textures/Rock.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_SpecularSmoothness.png
+- Assets/Oculus/Interaction/Samples/Scenes/BasicGrab/Lightmap-0_comp_dir.png
+- Assets/Oculus/Interaction/Samples/Textures/Paper.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Textures/keyTexture.png
+- Assets/Oculus/Interaction/Samples/Textures/Scissors.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/ConcreteTiling.png
+- Assets/Oculus/Interaction/Samples/Textures/ThumbsUp.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_AlbedoTransparency.png
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoke/Lightmap-1_comp_dir.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Textures/torchTexture_Metal.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/WoodTiling.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/furnitureDiffuse.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/floorDiffuse.png
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoseDetection/Lightmap-0_comp_dir.png
+- Assets/Oculus/Interaction/Samples/Textures/HandStop.png
+- Assets/Oculus/Interaction/Runtime/Textures/fingers_glow_mask.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Mug/Textures/mugTexture.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/FabricTiling.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Textures/torchTexture_Albedo.png
+- Assets/Oculus/Interaction/Samples/Textures/RoundCorners.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Textures/MRDeskShadow.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/PodiumEmissive.png
+Dependencies: []

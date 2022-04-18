@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 548699753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cc7c2f47911b75436659dcd0bf7972d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1adf4c3a0b393b08ed7a28c22b83c183
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/thumbMask_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/ThumbUp_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandMidFist_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandPinch_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandCap_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/indexMask_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandMidFist_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/Hand3qtrFist_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/IndexPoint_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandPinch_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/ThumbUp_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandFist_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/indexMask_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandFist_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/thumbMask_l_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/IndexPoint_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/Hand3qtrFist_r_.anim
+- Assets/Oculus/Interaction/Runtime/Animations/Hands/HandCap_l_.anim
+Dependencies: []

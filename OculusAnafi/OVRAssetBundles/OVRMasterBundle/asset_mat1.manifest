@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3746651317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22e687f80ca1ed1b1f5b0c6494de5fac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Materials/RockParticle.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Materials/MapMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Materials/MapPointerMat.mat
+- Assets/Oculus/Interaction/Samples/Materials/ThumbsDown.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Materials/ScreenMaterial.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandPinchMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/Materials/StonePolyhedraMat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandCursor.mat
+- Assets/Oculus/Interaction/Samples/Materials/PaperParticle.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Materials/MapFrameMat.mat
+- Assets/Oculus/Interaction/Samples/Materials/ThumbsUp.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayCursor.mat
+- Assets/Oculus/Interaction/Runtime/Materials/GrabDebugSphere.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Materials/FrameMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Materials/BoxMat.mat
+- Assets/Oculus/Interaction/Samples/Materials/ScissorsParticle.mat
+- Assets/Oculus/Interaction/Runtime/Materials/SkeletalDebugMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Props/Doll/Materials/DollMat.mat
+Dependencies:
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_png0
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_png1
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_resources
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_shader0

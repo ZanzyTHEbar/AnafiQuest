@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1934807056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18bcbf5e3ef1b2b7892e1b8364a56408
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1848cfd019ebe6ef89967c6f90f2a3d4
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Shaders/UIStyleShader.shader
+- Assets/Oculus/Interaction/Samples/Shaders/StencilWriter.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/RoundedBoxUnlit.shader
+- Assets/Oculus/Interaction/Samples/ThirdParty/GradientSkybox/ThreeColorGradient.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/OculusControllerRayShader.shader
+- Assets/Oculus/Interaction/Samples/Shaders/floor.shader
+- Assets/Oculus/Interaction/Samples/Shaders/room.shader
+- Assets/Oculus/Interaction/Samples/Shaders/StencilSky.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/OculusHandCursor.shader
+- Assets/Oculus/Interaction/Runtime/Shaders/OculusHand.shader
+- Assets/Oculus/Interaction/Samples/Shaders/MRDeskShadow.shader
+Dependencies: []

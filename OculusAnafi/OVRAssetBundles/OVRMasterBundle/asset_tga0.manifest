@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1927543646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5d149d67a44e2a952414cfa1dcd4862
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Particles/Textures/brazier_pool.tga
+- Assets/Oculus/VR/Textures/OculusTouchForQuestAndRiftS/OculusQuestTouchControllerTexture.tga
+- Assets/Oculus/VR/Textures/OculusTouchForQuest2/OculusTouchForQuest2_AlbedoRoughness.tga
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Particles/Textures/poof4x4.tga
+Dependencies: []

@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 245986208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e772b35efe47fe5d0cfa25fd617e5af3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e507aaf7f0431856d0e2120317b7c8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Models/MRDesk.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/SmallRoom.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/IconBox/Models/iconBoxMesh.fbx
+- Assets/Materials/Models/Parrot-Anafi drone.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Models/BigRedButton.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/Doll/Models/Doll.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Models/Box.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/Models/StonePolyhedra.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/Torch/Models/torchMesh.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Models/MapPointer.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/Mug/Models/mugMesh.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/backgroundSkyDome.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
+- Assets/Oculus/Interaction/Runtime/Meshes/OculusHandPinchArrowBlended.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Models/MapFrame.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Models/ScreenMesh.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/Key/Models/keyMesh.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Models/Map.fbx
+- Assets/Oculus/Interaction/Samples/Objects/Environment/MRDesk/Models/MRDeskShadow.fbx
+Dependencies:
+- G:/Games/OculusAnafi/OVRAssetBundles/OVRMasterBundle/asset_mat0

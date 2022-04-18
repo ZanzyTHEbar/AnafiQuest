@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 509117562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32402d8742cd0243e7a440a0b290da00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6e651bdddca608c77d51fff2e12d033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Scenes/BasicRay/Lightmap-1_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicRay/Lightmap-0_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoke/Lightmap-0_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicRay/ReflectionProbe-0.exr
+- Assets/Oculus/Interaction/Samples/Scenes/ComplexGrab/ReflectionProbe-0.exr
+- Assets/Oculus/Interaction/Samples/Scenes/ComplexGrab/Lightmap-0_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoke/Lightmap-1_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoseDetection/Lightmap-1_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicGrab/Lightmap-0_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoseDetection/Lightmap-0_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicGrab/ReflectionProbe-0.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoseDetection/ReflectionProbe-0.exr
+- Assets/Oculus/Interaction/Samples/ThirdParty/Textures/EnvironmentMaps/photo_studio_broadway_hall_1k.exr
+- Assets/Oculus/Interaction/Samples/Scenes/ComplexGrab/Lightmap-1_comp_light.exr
+- Assets/Oculus/Interaction/Samples/Scenes/BasicPoke/ReflectionProbe-0.exr
+Dependencies: []
